@@ -1,0 +1,30 @@
+# gitshortened aliases
+# ----------------------------------------
+# made by 0xbooper
+# https://github.com/0xBooper/gitshortened
+# v1.0.0
+#
+# downloading & installing:
+# --------------------------------------------------------------------------------------------------
+# 1: download the .gitshortened-bashrc file
+#    run: curl https://github.com/0xBooper/gitshortened/.gitshortened-bashrc -o .gitshortened-bashrc
+# 2: source the file in your bashrc
+#    add: source path/to/.gitshortened-bashrc
+# 3: source your bashrc file
+#    run: source path/to/.bashrc
+# 4: enjoy your shortened git!
+#
+# (replace path/to/ with the actual path)
+
+# actual aliases
+alias ga="git add "
+alias gc="git commit -m "
+alias gca="git commit -am "
+alias gl="git log"
+alias grb="git rebase "
+alias gm="git merge "
+alias gr="git revert "
+alias gpu="git push "
+alias gpl="git pull "
+alias gbc="git branch "
+alias gpuf="git push --force "
