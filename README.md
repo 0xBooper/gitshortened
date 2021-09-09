@@ -28,9 +28,10 @@ Table of Aliases
 | gc | git commit -m | 
 | gca | git commit -am | 
 | gl | git log | 
-| grb | git rebase | 
+| gre | git rebase | 
 | gm | git merge | 
 | gpu | git push | 
-| gpuf | git push --force | |
+| gpuf | git push --force |
+| grv | git revert |
 | gpl | git pull | 
 | gb | git branch |
