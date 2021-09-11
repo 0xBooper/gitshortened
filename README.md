@@ -35,3 +35,4 @@ Table of Aliases
 | grv | git revert |
 | gpl | git pull | 
 | gb | git branch |
+| gs | git status |
